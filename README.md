@@ -1,4 +1,4 @@
-# The-Internet-Party
+# The Network Party
 
 A new political party where you decide how your representatives vote.
 
