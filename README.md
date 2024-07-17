@@ -2,7 +2,7 @@
 
 A new political party where you decide how your representatives vote.
 
-https://the-internet-party-164518.uc.r.appspot.com/
+https://thenet.party
 
 # Why?
 American democracy is in dire straights.
